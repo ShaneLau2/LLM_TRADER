@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Environment / secrets
+.env
+.env.*
+secrets.json
+
+# Data, logs and runtime artifacts (do not commit large datasets or logs)
+data/
+logs/
+signals/
+
+# Build / distribution
+dist/
+build/
+*.egg-info/

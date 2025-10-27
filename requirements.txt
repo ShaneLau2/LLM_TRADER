@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+ta
+yfinance
+openai
+matplotlib
+finnhub-python>=1.9.0
